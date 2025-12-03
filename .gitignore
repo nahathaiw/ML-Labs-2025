@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS files (Mac)
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Big dataset for Lab 3
+Lab3_Linear Discriminant Analysis and Support Vector Machine/train.csv
+
+
+
